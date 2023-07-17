@@ -1,0 +1,15 @@
+.button-one{
+    padding: 15px 20px;
+    font-size: 25px;
+    cursor: pointer;
+    background-color: white;
+    border: 2px solid black;
+    text-transform: uppercase;
+    font-weight: 800;
+    transition: all 0.2s ease;
+    letter-spacing: 2px;
+}
+.button-one:hover{
+    background-color: black;
+    color: white;
+}

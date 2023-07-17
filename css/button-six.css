@@ -1,0 +1,16 @@
+.button-six{
+    padding: 15px 20px;
+    font-size: 25px;
+    cursor: pointer;
+    border: none;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 2px;
+    background-color: black;
+    color: white;
+    transition: all 0.2s ease;
+}
+.button-six:hover{
+    /* background-color: rgb(127, 127, 127); */
+    transform: scale(1.1);
+}
